@@ -120,5 +120,5 @@ MIT License
 
 ## 👤 Author
 
-**PQAnh**  
+**Phan Quoc Anh**  
 Automation / Data / AI Engineer  
