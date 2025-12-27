@@ -22,15 +22,17 @@ This project focuses on **workflow architecture, data quality, and cost-aware au
 
 ![n8n workflow](n8n-automation.png)
 
+---
+
 ### Key components & data flows
 
-#### Main Components
+### Main Components
 
 - **Apify Actor** → Scrapes LinkedIn job listings
 - **Google Docs** → Stores and updates tailored resumes
 - **Google Sheets** → Logs matched jobs
 
-#### Step-by-step workflow
+### Step-by-step workflow
 
 - **Trigger the workflow on a daily schedule**
 - **Fetch base configuration from Google Docs**
