@@ -122,6 +122,3 @@ MIT License
 
 **PQAnh**  
 Automation / Data / AI Engineer  
-
-GitHub: https://github.com/your-username
-
