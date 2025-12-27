@@ -65,7 +65,7 @@ This project focuses on **workflow architecture, data quality, and cost-aware au
 ## 🛠 Tech Stack
 
 - **n8n** – Workflow orchestration
-- **LinkedIn Jobs Scraper (Apify Actor)** – Job data collection
+- **Rapid Linkedin Jobs Scraper (Apify Actor)** – Job data collection
 - **Google Docs API** – Dynamic configuration input
 - **Google Sheets API** – Data storage
 - **Gmail API** – Email notifications
