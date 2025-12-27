@@ -1,1 +1,1 @@
-# Job-Search-Automation-with-n8n
+# LinkedIn Job Search Scraper Automation with n8n
